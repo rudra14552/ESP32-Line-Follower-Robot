@@ -16,6 +16,8 @@
 - **LED status indicator** — blinks during calibration, solid while following
 
 ---
+<img width="3177" height="3177" alt="IMG_20260330_204953629" src="https://github.com/user-attachments/assets/7f3a0719-aead-4bcf-8b44-73a0135e80c0" />
+
 
 ## Hardware
 
