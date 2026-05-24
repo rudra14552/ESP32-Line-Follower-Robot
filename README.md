@@ -3,15 +3,6 @@
 > ESP32-based PID line follower with Bluetooth tuning, NVS memory, and auto-stop — built around the DRV8833 motor driver and a Waveshare 5-channel IR sensor array.
 
 ---
-## Demo 
-
-
-
-https://github.com/user-attachments/assets/0787e2dc-1a41-4838-8cc5-ae2d504d8008
-
-
-
-
 
 ## Features
 
@@ -90,6 +81,11 @@ https://github.com/user-attachments/assets/0787e2dc-1a41-4838-8cc5-ae2d504d8008
 > **LiPo safety:** Never discharge below 3.0 V per cell (6.0 V total). Use a LiPo alarm or checker. The DRV8833 is rated up to 10.8 V — a fully charged 2S at 8.4 V is well within spec.
 
 ---
+## Demo 
+
+https://github.com/user-attachments/assets/0787e2dc-1a41-4838-8cc5-ae2d504d8008
+
+
 
 ## Bluetooth Commands
 
